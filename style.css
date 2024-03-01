@@ -1,1 +1,8 @@
- 
+body{
+    background-color: green;
+}
+
+
+.cabeçalho{
+    background-color: blueviolet;
+}
