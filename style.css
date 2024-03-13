@@ -1,8 +1,16 @@
-body{
-    background-color: green;
+*{
+    margin: 0px;
+
 }
+body{
+      background-color: blue;
 
-
-.cabeçalho{
-    background-color: blueviolet;
+      .cabeçalho{
+           background-color: blueviolet;
+           color: black; 
+           display: flex;
+           justify-content: space-around;
+           padding: 24px 0;
+      }
+      
 }
